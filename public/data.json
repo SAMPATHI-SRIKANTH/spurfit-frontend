@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "You get a promotion at work",
+    "description": "You question yourself and wonder when they'll realize you're an unqualified imposter, instead of trusting yourself & your abilities.",
+    "color": "blue"
+  },
+  {
+    "id": 2,
+    "title": "You find a lost puppy",
+    "description": "You feel a warm, fuzzy feeling as you reunite the puppy with its owner.",
+    "color": "green"
+  },
+  {
+    "id": 3,
+    "title": "You win a lottery",
+    "description": "You're elated but cautious, knowing that sudden wealth can bring unexpected challenges.",
+    "color": "orange"
+  },
+  {
+    "id": 4,
+    "title": "You miss your bus",
+    "description": "You take a deep breath, knowing that setbacks are a part of life, and figure out an alternative plan.",
+    "color": "purple"
+  },
+  {
+    "id": 5,
+    "title": "You forget your wallet at home",
+    "description": "You feel frustrated but grateful for the opportunity to practice patience and problem-solving.",
+    "color": "red"
+  },
+  {
+    "id": 6,
+    "title": "You receive unexpected good news",
+    "description": "You smile from ear to ear, feeling a surge of happiness and gratitude.",
+    "color": "yellow"
+  },
+  {
+    "id": 7,
+    "title": "You fail at something you've been working on",
+    "description": "You acknowledge the disappointment but remind yourself that failure is a stepping stone to success.",
+    "color": "teal"
+  }
+]
